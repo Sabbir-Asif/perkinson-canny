@@ -1,0 +1,15 @@
+Feature,Type,Category
+Mean,Original,Statistical
+StdDev,Original,Statistical
+Skewness,Original,Statistical
+Kurtosis,Original,Statistical
+Energy,Original,Statistical
+Power,Original,Statistical
+Median,Original,Statistical
+Variance,Original,Statistical
+Min,Original,Statistical
+Max,Original,Statistical
+RMS,Original,Statistical
+FFT (Frequency Domain),New,Frequency Analysis
+Entropy (Texture Complexity),New,Texture Analysis
+LBP (Local Binary Pattern),New,Texture Analysis

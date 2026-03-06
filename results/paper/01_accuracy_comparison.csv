@@ -1,0 +1,10 @@
+Classifier,DS0,DS1,DS2,DS3
+Logistic Regression,0.6661,0.5000,0.6627,0.5370
+Random Forest,0.6339,0.6554,0.9075,0.6543
+AdaBoost,0.6250,0.6679,0.7289,0.6064
+K-Nearest Neighbor,0.5804,0.5714,0.6154,0.5933
+Decision Tree,0.6482,0.6268,0.8707,0.6213
+Naive Bayes,0.5554,0.5714,0.5900,0.5509
+Support Vector Machine,0.4857,0.4429,0.5677,0.5066
+XGBoost,0.6357,0.5429,0.9118,0.6764
+Gradient Boosting,0.5679,0.6107,0.8638,0.6852

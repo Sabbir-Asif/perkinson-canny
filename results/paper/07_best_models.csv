@@ -1,0 +1,5 @@
+Dataset,Best Accuracy Model,Best Accuracy Score,Best AUC Model,Best AUC Score,Best F1 Model,Best F1 Score
+DS0,Logistic Regression,0.6661,AdaBoost,0.7042,Decision Tree,0.6714
+DS1,AdaBoost,0.6679,Gradient Boosting,0.7052,Random Forest,0.6417
+DS2,XGBoost,0.9118,XGBoost,0.9693,XGBoost,0.9104
+DS3,Gradient Boosting,0.6852,Gradient Boosting,0.7612,XGBoost,0.6582

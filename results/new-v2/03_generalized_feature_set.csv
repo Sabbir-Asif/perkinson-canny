@@ -1,0 +1,9 @@
+Feature,Description
+FFT,Average pixel intensity
+Variance,Pixel intensity spread
+LBP,Distribution asymmetry
+Entropy,Distribution tail weight
+StdDev,Sum of squared pixel values
+Skewness,Average squared intensity
+Median,Middle value of intensity distribution
+Kurtosis,Squared standard deviation

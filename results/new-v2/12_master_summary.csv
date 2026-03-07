@@ -1,0 +1,13 @@
+Dataset,F1 (11 feat),F1 (14 feat),F1 (RFE),RFE Features,Best Config
+Baseline_Aug_HOG,0.9068,0.9256,-,-,14 feat
+Baseline_Raw_HOG,0.6475,0.6186,-,-,11 feat
+Canny_Aug,0.6142,0.6407,0.6441,8,14 feat
+Canny_Raw,0.5221,0.5363,0.5363,8,14 feat
+Laplacian_Aug,0.8978,0.9491,0.9594,8,14 feat
+Laplacian_Raw,0.5748,0.5707,0.6141,8,11 feat
+Prewitt_Aug,0.8967,0.9385,0.9452,8,14 feat
+Prewitt_Raw,0.6369,0.6519,0.6948,8,14 feat
+Roberts_Aug,0.9236,0.9692,0.9786,8,14 feat
+Roberts_Raw,0.6031,0.7158,0.6929,8,14 feat
+Sobel_Aug,0.8803,0.9380,0.9450,8,14 feat
+Sobel_Raw,0.5881,0.6650,0.6674,8,14 feat

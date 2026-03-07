@@ -1,0 +1,15 @@
+Feature,Importance_Count,Importance_Score
+FFT,10,1.0
+Variance,10,1.0
+LBP,10,1.0
+Entropy,9,0.9
+StdDev,9,0.9
+Skewness,9,0.9
+Median,7,0.7
+Kurtosis,7,0.7
+Power,3,0.3
+Energy,2,0.2
+RMS,2,0.2
+Mean,1,0.1
+Max,1,0.1
+Min,0,0.0

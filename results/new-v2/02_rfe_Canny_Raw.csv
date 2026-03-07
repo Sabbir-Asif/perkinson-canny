@@ -1,0 +1,15 @@
+Feature,Rank,Selected
+StdDev,1,True
+Kurtosis,1,True
+Variance,1,True
+Energy,1,True
+RMS,1,True
+LBP,1,True
+FFT,1,True
+Entropy,2,False
+Mean,3,False
+Skewness,4,False
+Power,5,False
+Max,6,False
+Min,7,False
+Median,8,False

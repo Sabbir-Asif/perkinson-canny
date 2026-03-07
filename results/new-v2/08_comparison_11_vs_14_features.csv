@@ -1,0 +1,13 @@
+Dataset,F1 (11 features),F1 (14 features),Improvement,Improvement %
+Baseline_Raw_HOG,0.6475,0.6186,-0.0289,-4.5%
+Baseline_Aug_HOG,0.9068,0.9256,+0.0189,+2.1%
+Canny_Raw,0.5221,0.5363,+0.0143,+2.7%
+Canny_Aug,0.6142,0.6407,+0.0266,+4.3%
+Sobel_Raw,0.5881,0.6650,+0.0769,+13.1%
+Sobel_Aug,0.8803,0.9380,+0.0577,+6.6%
+Prewitt_Raw,0.6369,0.6519,+0.0150,+2.4%
+Prewitt_Aug,0.8967,0.9385,+0.0418,+4.7%
+Laplacian_Raw,0.5748,0.5707,-0.0040,-0.7%
+Laplacian_Aug,0.8978,0.9491,+0.0514,+5.7%
+Roberts_Raw,0.6031,0.7158,+0.1127,+18.7%
+Roberts_Aug,0.9236,0.9692,+0.0456,+4.9%
